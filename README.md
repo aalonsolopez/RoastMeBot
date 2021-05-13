@@ -13,7 +13,7 @@ It scans every X secons (you can change it, but the Twitter API has a limit of r
 ## What can I do? :bow:
 You can create your own text files with custom jokes or sentences (remember only one sentence per line) and then change the code to detect the hashtag that makes the bot search into that file.
 
-## Greatings :heart:
+## Greeatings :heart:
 Greatings one more time to Core Dumped and his awesome Spaghetti Code Fest, it was amazing and I learnt a lot during the development of this, being my first "serious" project ever done. Of course thanks to everyone supporting me while I was desperate on the last days, with the deadline getting even and even closer and editing the video that was making for the presentation. I had a mini devlog on Twitter to that was super fun to do.
 
 One more time, thanks to everyone, and every type of feedback is welcome. See you all later!
