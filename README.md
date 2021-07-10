@@ -1,6 +1,7 @@
 # RoastMeBot :speak_no_evil:
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
- This is a Twitter Bot using the official API made for [Spaguetti Code Fest 2020](https://coredumped.es/2020/ya-esta-aqui-el-spaghetti-code-fest-2020/) from [Core Dumped](https://coredumped.es) in ETSISI (UPM)
+
+This is a Twitter Bot using the official API made for [Spaguetti Code Fest 2020](https://coredumped.es/2020/ya-esta-aqui-el-spaghetti-code-fest-2020/) from [Core Dumped](https://coredumped.es) in ETSISI (UPM)
 
 ## The Concept :thought_balloon:
 The idea of the competition was to realise a silly idea and convince the public that is something usefull in their normal life. My idea was a Twitter Bot that roasts you when it's mentioned and detects a keyword. When I submited it, it's content was kinda hardcore, and to avoid problems I removed the original .txt files with the phrases, and replaced it with a example .txt file. If you cannot sleep thinking on what jokes I put, contact me on my social media!
