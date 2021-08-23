@@ -15,7 +15,7 @@ auth.set_access_token(access_token, access_token_secret)        #This function s
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 FILE_NAME = 'last_seen_id.txt'
-EXAMPLE = 'example.txt' #here you asing the files to variables
+EXAMPLE = 'example.txt' #here you asign the files to variables
 
 #This function open the file on read-only mode and pick a random line from it
 def random_sentence(example):
