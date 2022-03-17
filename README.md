@@ -1,5 +1,4 @@
 # RoastMeBot :speak_no_evil:
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
 
 This is a Twitter Bot using the official API made for [Spaguetti Code Fest 2020](https://coredumped.es/2020/ya-esta-aqui-el-spaghetti-code-fest-2020/) from [Core Dumped](https://coredumped.es) in ETSISI (UPM)
 
